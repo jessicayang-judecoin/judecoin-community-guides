@@ -8,7 +8,7 @@ These guides are community references and are not official documentation.
 
 1. [Judecoin Service Node Staking & Operations](./service-node-staking-guide.md)
 
-2. [Judecoin Service Node Restart Process](./service-node-restart-guide.md)
+2. [Judecoin Service Node Restart Process](./service-node-restart-guide.md) 
 
 3. [Restore Judecoin Service Node with SN Private Key](./service-node-recovery-with-sn-key.md)
 
