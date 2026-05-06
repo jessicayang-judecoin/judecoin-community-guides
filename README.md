@@ -4,7 +4,7 @@ Community operation guides for Judecoin users, including service node staking, w
 
 These guides are community references and are not official documentation.
 
-## Guides
+## Guides 
 
 1. [Judecoin Service Node Staking & Operations](./service-node-staking-guide.md)
 
