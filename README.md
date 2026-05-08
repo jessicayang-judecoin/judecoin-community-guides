@@ -24,4 +24,4 @@ The CLI version mentioned in some examples is v3.1.2. If Judecoin releases a new
 
 ## Security Reminder
 
-Never share wallet seed phrases, wallet private keys, Service Node private keys, AWS .pem files, or server login information.
+Never share wallet seed phrases, wallet private keys, Service Node private keys, .pem files, or server login information.
